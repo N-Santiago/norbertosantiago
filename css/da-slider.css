@@ -59,9 +59,8 @@
 	top: 60px;
 	white-space: nowrap;
 	z-index: 10;
-	text-shadow: 5px 5px 5px rgba(12, 3, 3, 0.808); 
+	text-shadow: 1px 1px 1px rgba(238, 232, 232, 0.808); 
 	font-weight: 700;
-  	background-color: #CC4646;
 }
 .da-slide p{
 	width: 27%;
@@ -73,12 +72,8 @@
 	overflow: hidden;
 	font-style: italic;
 	font-weight: 400;
-	text-shadow: 5px 5px 5px rgba(12, 3, 3, 0.808); 
+	text-shadow: 1px 1px 1px rgba(238, 232, 232, 0.808); 
 	font-style: italic;
-	/* margin: 30px; */
-  	background-color: #CC4646;
-  	/* border: 1px solid black; */
-  	/* opacity: 10%; */
 }
 .da-slide .da-img{
 	text-align: center;
