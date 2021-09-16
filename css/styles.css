@@ -237,8 +237,10 @@ background: none;
 
 .navbar-brand b {
     color: #fff;
-	font-family: 'hardcore-pen', sans-serif;
-	font-weight:400;
+    font-family: 'hardcore_pen';
+    font-style: normal;
+    font-weight: 400;
+    src: local('hardcore_pen'), url('https://fonts.cdnfonts.com/s/9884/hardcore_pen_regular.woff') format('woff');	
 }
 
 .logo {
