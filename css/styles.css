@@ -456,6 +456,9 @@ text-align: right;
 font-weight: 600;
 padding-right: 0px;
 }
+.skilltitle-sub {
+font-weight: 600;
+}
 .progress {
 border-radius: 0px;
 height: 15px;
