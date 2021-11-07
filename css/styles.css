@@ -717,6 +717,12 @@ nav#filter {
         margin: 0 0 0 5px;
     }
 
+    @media (max-width:500px) {
+        nav#filter li {
+            margin: 0 0 12px 5px;
+        }
+    }
+
     nav#filter a {
         padding: 4px 12px;
         line-height: 20px;
