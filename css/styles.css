@@ -315,6 +315,19 @@ background: none;
     justify-content: center;
 }
 
+@media (max-width: 1024px) {
+    .box {
+        flex-direction: column; 
+    }
+}
+
+
+@media (max-width: 1024px) {
+    .col-sm-4 {
+        padding-bottom: 50px;
+    }
+}
+
 .darkBg {
     background: rgb(44, 44, 44);
 }
